@@ -1,0 +1,31 @@
+D:\c#\Cashiering System\Cashiering System\bin\Debug\Cashiering System.exe.config
+D:\c#\Cashiering System\Cashiering System\bin\Debug\Cashiering System.exe
+D:\c#\Cashiering System\Cashiering System\bin\Debug\Cashiering System.pdb
+D:\c#\Cashiering System\Cashiering System\obj\Debug\Cashiering_System.Properties.Resources.resources
+D:\c#\Cashiering System\Cashiering System\obj\Debug\Cashiering System.csproj.GenerateResource.Cache
+D:\c#\Cashiering System\Cashiering System\obj\Debug\Cashiering System.exe
+D:\c#\Cashiering System\Cashiering System\obj\Debug\Cashiering System.pdb
+D:\c#\Cashiering System\Cashiering System\obj\Debug\Cashiering_System.Admin.resources
+D:\c#\Cashiering System\Cashiering System\obj\Debug\Cashiering System.csproj.AssemblyReference.cache
+D:\c#\Cashiering System\Cashiering System\obj\Debug\Cashiering System.csproj.CoreCompileInputs.cache
+D:\c#\Cashiering System\Cashiering System\bin\Debug\EntityFramework.dll
+D:\c#\Cashiering System\Cashiering System\bin\Debug\EntityFramework.SqlServer.dll
+D:\c#\Cashiering System\Cashiering System\bin\Debug\MySql.Data.dll
+D:\c#\Cashiering System\Cashiering System\bin\Debug\mysql.data.entity.EF6.dll
+D:\c#\Cashiering System\Cashiering System\bin\Debug\EntityFramework.xml
+D:\c#\Cashiering System\Cashiering System\bin\Debug\EntityFramework.SqlServer.xml
+D:\c#\Cashiering System\Cashiering System\obj\Debug\Cashiering System.csproj.CopyComplete
+D:\c#\Cashiering System\Cashiering System\obj\Debug\Cashiering_System.Cashier.resources
+D:\c#\Cashiering System\Cashiering System\bin\Debug\dje-NE\Cashiering System.resources.dll
+D:\c#\Cashiering System\Cashiering System\bin\Debug\dje\Cashiering System.resources.dll
+D:\c#\Cashiering System\Cashiering System\obj\Debug\Cashiering_System.Cashier.dje-NE.resources
+D:\c#\Cashiering System\Cashiering System\obj\Debug\Cashiering_System.Cashier.dje.resources
+D:\c#\Cashiering System\Cashiering System\obj\Debug\dje-NE\Cashiering System.resources.dll
+D:\c#\Cashiering System\Cashiering System\obj\Debug\dje\Cashiering System.resources.dll
+D:\c#\Cashiering System\Cashiering System\obj\Debug\Cashiering_System.Login.resources
+D:\c#\Cashiering System\Cashiering System\obj\Debug\Cashiering_System.salesReport.resources
+D:\c#\Cashiering System\Cashiering System\obj\Debug\Cashiering_System.Accounts.resources
+D:\c#\Cashiering System\Cashiering System\obj\Debug\Cashiering_System.Add_user.resources
+D:\c#\Cashiering System\Cashiering System\obj\Debug\Cashiering_System.products.resources
+D:\c#\Cashiering System\Cashiering System\obj\Debug\Cashiering_System.Add_product.resources
+D:\c#\Cashiering System\Cashiering System\obj\Debug\Cashiering_System.edit_product.resources
